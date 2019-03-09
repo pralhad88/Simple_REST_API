@@ -1,0 +1,57 @@
+[
+  {
+    "1": [
+      {
+        "name": "Task1",
+        "content": "Iss exercise mein hum game khelenge.",
+        "hint": "Hello! Yeh ek hint hai!!!!",
+        "id": 1,
+        "courseId": 1
+      },
+      {
+        "name": "Task2",
+        "content": "Iss exercise mein hum marenge.",
+        "hint": "Hello! Yeh ek hint hai!!!!",
+        "id": 2,
+        "courseId": 1
+      },
+      {
+        "name": "Task3",
+        "content": "Iss exercise mein hum.",
+        "hint": "Hello! Yeh ek hint hai!!!!",
+        "id": 3,
+        "courseId": 1
+      }
+    ]
+  },
+  {
+    "2": [
+      {
+        
+        "name": "Introduction",
+        "content": "Iss exercise mein aapne yeh sab karna hai.",
+        "hint": "Hello! Yeh ek hint hai!!!!",
+        "id": 1,
+        "courseId": 2
+      },
+      {
+        "name": "Task2",
+        "content": "Iss exercise mein hum.",
+        "hint": "Hello! Yeh ek hint hai!!!!",
+        "id": 2,
+        "courseId": 2
+      }
+    ]
+  },
+  {
+    "3": [
+      {
+        "name": "Introduction",
+        "content": "Iss exercise mein aapne yeh sab karna hai.",
+        "hint": "Hello! Yeh ek hint hai!!!!",
+        "id": 1,
+        "courseId": 3
+      }
+    ]
+  }
+]

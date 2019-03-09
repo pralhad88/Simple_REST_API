@@ -1,0 +1,17 @@
+[
+  {
+    "name": "python",
+    "description": "learning of basic python",
+    "id": 1
+  },
+  {
+    "name": "HTML",
+    "description": "learning of basic HTML",
+    "id": 2
+  },
+  {
+    "name": "Javascript",
+    "description": "learning of basic Javascript",
+    "id": 3
+  }
+]

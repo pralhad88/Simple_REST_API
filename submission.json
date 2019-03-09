@@ -1,0 +1,49 @@
+[
+  {
+    "1": [
+      {
+        "submission": "file1",
+        "user_name": "Pralhad Jadhav",
+        "Ex_id": 1,
+        "user_id": 1,
+        "cource_id": 1
+      },
+      {
+        "submission": "file2",
+        "user_name": "Yogendra",
+        "Ex_id": 2,
+        "user_id": 2,
+        "cource_id": 1
+      }
+    ]
+  },
+  {
+    "2": [
+      {
+        "submission": "file1",
+        "user_name": "Pralhad Jadhav",
+        "Ex_id": 1,
+        "user_id": 1,
+        "cource_id": 2
+      },
+      {
+        "submission": "file2",
+        "user_name": "Yogendra",
+        "Ex_id": 1,
+        "user_id": 2,
+        "cource_id": 2
+      }
+    ]
+  },
+  {
+    "3": [
+      {
+        "submission": "file1",
+        "user_name": "Pralhad Jadhav",
+        "Ex_id": 1,
+        "cource_id": 3,
+        "user_id": 1
+      }
+    ]
+  }
+]

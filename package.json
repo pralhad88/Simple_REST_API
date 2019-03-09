@@ -1,0 +1,11 @@
+{
+  "name": "api_like_saral",
+  "version": "1.0.0",
+  "description": "It is a simple RESTfull API like storing the data saral it is navgurukul's portfolio",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Pralhad",
+  "license": "MIT"
+}
